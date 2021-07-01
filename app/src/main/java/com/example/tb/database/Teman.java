@@ -1,4 +1,4 @@
-package com.example.barangtes.database;
+package com.example.tb.database;
 
 import java.io.Serializable;
 
